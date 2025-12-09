@@ -1,4 +1,4 @@
-FROM python:3.8-slim
+FROM python:3.14.2-slim
 LABEL maintainer="oppsec <https://github.com/oppsec>"
 
 ENV LANG=C.UTF-8
